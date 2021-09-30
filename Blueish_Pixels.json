@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "Blueish Pixels",
         "license": " ",
-        "updater": "https:\/\/raw.githubusercontent.com\/Neimit\/Blueish-Pixels\/main\/Blueish_Pixels.json?token=AREDWWIQQHUPNE4SMTO7NFDBKZB24",
+        "updater": "https:\/\/raw.githubusercontent.com\/Neimit\/Blueish-Pixels\/main\/Blueish_Pixels.json",
         "author": "Neimit"
     },
     "background": {
