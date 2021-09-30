@@ -2,8 +2,9 @@
     "manifest": {
         "version": "1.0.0",
         "name": "Blueish Pixels",
-        "author": "Neimit",
-        "license": " "
+        "license": " ",
+        "updater": "https:\/\/raw.githubusercontent.com\/Neimit\/Blueish-Pixels\/main\/Blueish_Pixels.json?token=AREDWWIQQHUPNE4SMTO7NFDBKZB24",
+        "author": "Neimit"
     },
     "background": {
         "overlay_alpha": 0
